@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/menu_icon">
+        <file>icon/dicon.png</file>
+        <file>icon/video_icon.png</file>
+        <file>icon/settings_icon.png</file>
+    </qresource>
+    <qresource prefix="/app_icon">
+        <file>icon/app_icon.png</file>
+    </qresource>
+    <qresource prefix="/tree_icon">
+        <file>icon/folder_icon.png</file>
+        <file>icon/compressed.png</file>
+        <file>icon/doc.png</file>
+        <file>icon/general.png</file>
+        <file>icon/music.png</file>
+        <file>icon/picture.png</file>
+        <file>icon/video.png</file>
+        <file>icon/folder.png</file>
+    </qresource>
+    <qresource prefix="/other">
+        <file>icon/loader.gif</file>
+    </qresource>
+    <qresource prefix="/cubes">
+        <file>cubes/blue_cube.png</file>
+        <file>cubes/white_cube.png</file>
+        <file>cubes/yellow_cube.png</file>
+    </qresource>
+</RCC>
